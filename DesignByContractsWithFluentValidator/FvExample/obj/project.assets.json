@@ -4472,11 +4472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_Marcelo\\GitHub\\FluentValidator\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\FvExample.csproj",
+      "projectUniqueName": "C:\\_Marcelo\\GitHub\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\FvExample.csproj",
       "projectName": "FvExample",
-      "projectPath": "C:\\_Marcelo\\GitHub\\FluentValidator\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\FvExample.csproj",
+      "projectPath": "C:\\_Marcelo\\GitHub\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\FvExample.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\_Marcelo\\GitHub\\FluentValidator\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\obj\\",
+      "outputPath": "C:\\_Marcelo\\GitHub\\DomainNotificationWithFluentValidator\\FluentValidatorExample\\FvExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
