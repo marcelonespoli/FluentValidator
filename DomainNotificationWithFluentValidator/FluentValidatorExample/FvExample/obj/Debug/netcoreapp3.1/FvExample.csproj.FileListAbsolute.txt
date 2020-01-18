@@ -11,3 +11,16 @@ C:\_Marcelo\GitHub\DomainNotificationWithFluentValidator\FluentValidatorExample\
 C:\_Marcelo\GitHub\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.runtimeconfig.dev.json
 C:\_Marcelo\GitHub\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FluentValidator.dll
 C:\_Marcelo\GitHub\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.csproj.CopyComplete
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.exe
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.deps.json
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.runtimeconfig.json
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.runtimeconfig.dev.json
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.dll
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FvExample.pdb
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\bin\Debug\netcoreapp3.1\FluentValidator.dll
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.csprojAssemblyReference.cache
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.AssemblyInfoInputs.cache
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.AssemblyInfo.cs
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.csproj.CopyComplete
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.dll
+C:\_Marcelo\GitHub\FluentValidator\DomainNotificationWithFluentValidator\FluentValidatorExample\FvExample\obj\Debug\netcoreapp3.1\FvExample.pdb

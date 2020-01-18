@@ -1,4 +1,5 @@
-﻿using FvExample.Domain.ValueObjects;
+﻿using FvExample.Domain.Entities;
+using FvExample.Domain.ValueObjects;
 using System;
 
 namespace FvExample
@@ -8,11 +9,17 @@ namespace FvExample
         static void Main(string[] args)
         {
             var name = new Name("", "");
+            var email = new Email("@test.com");
+            var document = new Document("1234567891");
 
-            foreach (var notification in name.Notifications)
+            var studant = new Student(name, document, email);
+
+
+            Console.WriteLine($"Student is valid: {studant.IsValid()}");
+
+            foreach (var notification in studant.Notifications())
             {
-                Console.WriteLine(notification.Message);
-                Console.WriteLine(name.Valid);
+                Console.WriteLine(notification.Message);                
             }
 
             Console.ReadKey();
